@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pritam Sahoo</h1>
-<h3 align="center">AI & ML Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=500&lines=AI+%26+ML+Student;Learning+Artificial+Intelligence;Exploring+Machine+Learning;Building+Smart+Systems" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
 🏫 Aditya University  
-💡 Passionate about AI, Machine Learning & Intelligent Systems  
+💡 Focused on AI, ML & Intelligent Systems  
 📍 India  
 
 ---
 
-## 🛠️ Skills
-- Python  
-- C / C++  
-- Machine Learning  
-- SQL  
-- Data Structures  
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,git,github" />
+</p>
 
 ---
 
@@ -31,5 +32,12 @@
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritam358&theme=react-dark" />
+</p>
+
+---
+
 ## 📫 Connect
-💼 LinkedIn: https://www.linkedin.com/in/pritam-sahoo-756067333  
+💼 LinkedIn: https://www.linkedin.com/in/pritam-sahoo-756067333
