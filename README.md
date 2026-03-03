@@ -1,32 +1,26 @@
 <h1 align="center">Hi 👋, I'm Pritam Sahoo</h1>
-<h3 align="center">B.Tech AI & ML Student | Robotics Enthusiast | Future AI Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Student;Machine+Learning+Explorer;Robotics+Developer;Problem+Solver;Tech+Content+Creator" />
-</p>
+<h3 align="center">AI & ML Student</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning  
-- 🏫 Aditya University  
-- 🤖 Working on Robotics & AI Projects  
-- 💡 Interested in Intelligent Systems & Automation  
-- 📍 India  
+## 👨‍💻 About Me
+🎓 B.Tech in Artificial Intelligence & Machine Learning  
+🏫 Aditya University  
+💡 Passionate about AI, Machine Learning & Intelligent Systems  
+📍 India  
 
 ---
 
 ## 🛠️ Skills
-- 💻 C / C++
-- 🐍 Python
-- 🧠 Machine Learning
-- 🗄️ SQL
-- 🤖 Arduino & Robotics
+- Python  
+- C / C++  
+- Machine Learning  
+- SQL  
+- Data Structures  
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pritam358&show_icons=true&theme=tokyonight" />
 </p>
@@ -37,6 +31,5 @@
 
 ---
 
-## 🔗 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/pritam-sahoo-756067333
-- 📧 Email: your-email@example.com
+## 📫 Connect
+💼 LinkedIn: https://www.linkedin.com/in/pritam-sahoo-756067333  
