@@ -8,45 +8,38 @@
 ---
 
 ## 👨‍💻 Professional Summary
-Second-year B.Tech student in Artificial Intelligence & Machine Learning at Aditya University with strong interests in robotics, embedded systems, and intelligent automation. Experienced in developing AI-driven systems, autonomous robotics solutions, and full-stack web applications.
-
----
-
-## 🚀 Key Projects
-
-### 🔹 AI-Based Home Security System
-- Developed offline AI-powered security system using ESP32 & OpenCV  
-- Implemented real-time face recognition  
-- Enabled Wi-Fi alert notifications for unknown detections  
-
-### 🔹 Autonomous Maze-Solving Robot
-- Built 5-ultrasonic sensor navigation system  
-- Designed forward-priority intelligent movement logic  
-- Implemented control using Arduino Mega Mini 2560  
-
-### 🔹 ParkShare – Smart Parking Platform
-- Developed real-time parking slot tracking system  
-- Integrated map-based booking functionality  
-
-### 🔹 AI-Powered Patient Triage Platform
-- Built algorithmic symptom analysis system  
-- Automated specialty matching & appointment scheduling  
+Second-year B.Tech student in Artificial Intelligence & Machine Learning at Aditya University with strong interests in robotics, embedded systems, and intelligent automation. Passionate about building real-world AI solutions integrating software and hardware systems.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming:** C, C++, Python, Java  
-**Web & Database:** SQL, MongoDB, MERN Stack  
-**Embedded Systems:** Arduino, ESP32, Sensors  
-**Core Areas:** Artificial Intelligence, Machine Learning, Robotics  
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+</p>
+
+### 🌐 Web & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,react,nodejs,express" />
+</p>
+
+### 🔌 Embedded Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+ESP32 • Ultrasonic Sensors • Microcontrollers  
+
+### 🧠 Core Areas
+Artificial Intelligence • Machine Learning • Robotics • Automation  
 
 ---
 
 ## 🏆 Technical Participation
-- Technoxian World Robotics Championship (WRC)
-- YESEST 2025 – AI Home Security Showcase
-- HACK-SPRINT 2K25 – AI Patient Triage Platform
+- Technoxian World Robotics Championship (WRC)  
+- YESEST 2025 – AI Home Security Showcase  
+- HACK-SPRINT 2K25 – AI Patient Triage Platform  
 
 ---
 
@@ -69,5 +62,5 @@ Second-year B.Tech student in Artificial Intelligence & Machine Learning at Adit
 ---
 
 ## 📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/pritam-sahoo-2351a9361
+💼 LinkedIn: https://www.linkedin.com/in/pritam-sahoo-2351a9361  
 📧 Email: pritamsahoo902@gmail.com
